@@ -2,7 +2,9 @@
 
 A real-time interactive maze game where **you control Pac-Man using a micro:bit tilt sensor**, while a **Q-Learning AI** continuously learns optimal behavior alongside you. Built with Pygame + micro:bit + reinforcement learning.
 
-[![Watch Demo on YouTube](https://img.youtube.com/vi/pAlz-TIt3jE/maxresdefault.jpg)](https://www.youtube.com/watch?v=pAlz-TIt3jE)
+<img width="1170" height="700" alt="image" src="https://github.com/user-attachments/assets/2ee855f8-21a8-4d50-8479-5b25cf6f238e" />
+
+📺 [Watch the game in action](https://www.youtube.com/watch?v=pAlz-TIt3jE)
 
 ---
 
